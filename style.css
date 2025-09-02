@@ -894,7 +894,7 @@ h5{
 }
 .review .review-box .review-card{
     width: 350px;
-    height: 485px;
+    height: 500px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
     border-radius: 8px;
     padding: 8px 20px;
@@ -963,7 +963,7 @@ h5{
  footer{
     width: 100%;
     padding: 20px 0 0 20px;
-    background: #2c2b2b1f;
+    background:white;
 }
 footer .end{
     color: #fff;
