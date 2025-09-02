@@ -570,7 +570,7 @@ h5{
 }
 @media(max-width:991px){
     body{
-        background: url(background.jpg);
+        background-color:black;
     }
     .contactUs{
         padding: 20px;
